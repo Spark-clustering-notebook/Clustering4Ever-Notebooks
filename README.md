@@ -18,8 +18,7 @@ choose master Version
 * Step 4 >: Open the web browser and launch this address : http://localhost:9001
   or
   http://localhost:9000
-  <img src="https://sites.google.com/site/lebbah/sml/fig2sml.png" width="400" height="234" border="0">
-
+<img src="https://sites.google.com/site/lebbah/aims-program/openspark.png" width="400" height="218" border="0">
 * Step 6 > : import this file using your browser 
 
 to change port number if it is necessary
