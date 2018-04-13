@@ -6,8 +6,8 @@ Here are gathred [SparkNotebook](https://github.com/spark-notebook/spark-noteboo
 Interactive and Reactive Data Science using Scala and Spark provided by [kensu.io](kensu.io)
 
 ### Optional 
-* install  [virtual box](https://www.virtualbox.org/) with Ubuntu or Debian
-before starting the virtual machine to make sure to increase the memory and the number of processors
+* install  [virtual box](https://www.virtualbox.org/) with Ubuntu or Debian.
+Before starting the virtual machine to make sure to increase the memory and the number of processors
 * install Java  -> sudo apt-get install default-jre
 
 ### Download the latest version on : http://spark-notebook.io/
