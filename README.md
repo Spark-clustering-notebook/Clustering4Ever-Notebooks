@@ -27,4 +27,4 @@ choose master Version
 ### Additional informations 
 * To change port number if it is necessary
 (/bin/spark-notebook -Dhttp.port=8888)
-* Edit Notebook Metadata if you want to add another API
+* Edit Notebook Metadata if you want to add/modify API version
