@@ -3,13 +3,14 @@
 Here are gathred [SparkNotebook](https://github.com/spark-notebook/spark-notebook) exposing example of use from [Clustering4Ever](https://github.com/Clustering4Ever/Clustering4Ever) library.
 
 
-# 1-Optional : install  virtual box with Ubuntu or Debian
+### Optional 
+* install  virtual box with Ubuntu or Debian
 before starting the virtual machine to make sure to increase the memory and the number of processors
-# 2-install Java  -> sudo apt-get install default-jre
+* install Java  -> sudo apt-get install default-jre
 
-# 3-Download the latest version on : http://spark-notebook.io/
+### Download the latest version on : http://spark-notebook.io/
 choose master Version (0.9)
-* Step1> unzip Title.zip
+* Step 1> unzip Title.zip
 * Step 2> cd Title
 * Step 3> ./bin/spark-notebook    
   Some times you need before to run chmod +x ./bin/spark-notebook
