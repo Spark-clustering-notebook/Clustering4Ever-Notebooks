@@ -24,7 +24,7 @@ choose master Version
 * Step 6 > : import file snb file using your browser 
 <img src="https://sites.google.com/site/lebbah/aims-program/openspark.png" width="400" height="218" border="0">
 
-###Additional informations 
+### Additional informations 
 * To change port number if it is necessary
 (/bin/spark-notebook -Dhttp.port=8888)
 * Edit Notebook Metadata if you want to add another API
