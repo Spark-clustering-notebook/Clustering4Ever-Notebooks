@@ -18,8 +18,9 @@ choose master Version
 * Step 4 >: Open the web browser and launch this address : http://localhost:9001
   or
   http://localhost:9000
-<img src="https://sites.google.com/site/lebbah/aims-program/openspark.png" width="400" height="218" border="0">
+  
 * Step 6 > : import this file using your browser 
+<img src="https://sites.google.com/site/lebbah/aims-program/openspark.png" width="400" height="218" border="0">
 
 to change port number if it is necessary
 (/bin/spark-notebook -Dhttp.port=8888)
