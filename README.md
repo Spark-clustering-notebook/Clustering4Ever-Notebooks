@@ -21,7 +21,7 @@ choose master Version
   or
   http://localhost:9000
   
-* Step 6> import file snb file using your browser 
+* Step 6> import snb file using your browser 
 <img src="https://sites.google.com/site/lebbah/aims-program/openspark.png" width="400" height="218" border="0">
 
 ### Additional informations 
