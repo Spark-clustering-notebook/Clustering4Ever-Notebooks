@@ -3,7 +3,7 @@
 Here are gathred [SparkNotebook](https://github.com/spark-notebook/spark-notebook) exposing example of use from [Clustering4Ever](https://github.com/Clustering4Ever/Clustering4Ever) library.
 
 # Install spark-notebook in your PC
-Interactive and Reactive Data Science using Scala and Spark provided by [kensu.io](kensu.io)
+Interactive and Reactive Data Science using Scala and Spark provided by [kensu.io](https://www.kensu.io/)
 
 ### Optional 
 * Install  [virtual box](https://www.virtualbox.org/) with Ubuntu or Debian.
