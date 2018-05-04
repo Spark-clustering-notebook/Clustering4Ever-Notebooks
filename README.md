@@ -30,7 +30,7 @@ choose master version
 * Edit Notebook Metadata if you want to add/modify API version
 
 
-    Example  add smile API 
+    Example :  add smile API 
    "customDeps": [
     "com.github.haifengl:smile-scala_2.11:1.4.0"
   ],
