@@ -12,7 +12,7 @@ Before starting the virtual machine to make sure to increase the memory and the 
 
 ### Download the latest version on : http://spark-notebook.io/
 choose master version 
-* Step 1> unzip Title.zip
+- Step 1> unzip Title.zip
 * Step 2> cd Title
 * Step 3> ./bin/spark-notebook    
   Some times you need before to run chmod +x ./bin/spark-notebook
