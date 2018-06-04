@@ -21,7 +21,7 @@ Before starting the virtual machine to make sure to increase the memory and the 
   or
   http://localhost:9000
   
-* Step 6> import snb file using your browser 
+* Step 6> import "snb" or "snb.ipynb" file using your browser 
 <img src="https://sites.google.com/site/lebbah/aims-program/openspark.png" width="400" height="218" border="0">
 
 ### Additional informations 
