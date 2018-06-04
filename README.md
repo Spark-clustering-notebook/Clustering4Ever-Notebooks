@@ -11,7 +11,7 @@ Before starting the virtual machine to make sure to increase the memory and the 
 * Install Java  -> sudo apt-get install default-jre
 
 ### Download the latest version on : http://spark-notebook.io/
-choose master version 
+*choose master version* 
 - Step 1> unzip Title.zip
 * Step 2> cd Title
 * Step 3> ./bin/spark-notebook    
