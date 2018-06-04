@@ -23,7 +23,7 @@ Before starting the virtual machine to make sure to increase the memory and the 
   
 * Step 6> import "snb" or "snb.ipynb" file using your browser 
 <img src="https://sites.google.com/site/lebbah/aims-program/openspark.png" width="400" height="218" border="0">
-
+Some examples are avalaible in via this link: https://github.com/Spark-clustering-notebook/Clustering4Ever-Notebooks/tree/master/SparkNotebooks 
 ### Additional informations 
 * To change port number if it is necessary
 (/bin/spark-notebook -Dhttp.port=8888)
