@@ -11,14 +11,14 @@ Before starting the virtual machine to make sure to increase the memory and the 
 * Install Java  -> sudo apt-get install default-jre
 
 ### Download the latest version on : http://spark-notebook.io/
-choose master version and pu a valid email* 
-<img src="https://82568e45-a-62cb3a1a-s-sites.googlegroups.com/site/lebbah/datatp/sparkSNB.png?attachauth=ANoY7crXLXLAyuINafKX7XT-dD8jwW5bceePcY2jaw1X_3w0meudInyt0oXTj98JkkjvXOyedhO758g5h2jikxU9Vml6UQQPcv5SfW_wANpgKTxO8tfysPGgkk-3sbBuDbHgP87QXtm6l6eafaNglTrCVinCADvkLvI-kt3D-7bMA51LuDuPZRUV6t_p17h-fYMVz2aqIWRHjXxHIIP6sR1qIJIFnBxKlg%3D%3D&attredirects=0" width="400" height="218" border="0">
-- Step 1> unzip Title.zip
-* Step 2> cd Title
-* Step 3> ./bin/spark-notebook    
+* step 1  You must enter your email, so a download link will be sent to you 
+<img src="https://82568e45-a-62cb3a1a-s-sites.googlegroups.com/site/lebbah/datatp/sparkSNB.png?attachauth=ANoY7crXLXLAyuINafKX7XT-dD8jwW5bceePcY2jaw1X_3w0meudInyt0oXTj98JkkjvXOyedhO758g5h2jikxU9Vml6UQQPcv5SfW_wANpgKTxO8tfysPGgkk-3sbBuDbHgP87QXtm6l6eafaNglTrCVinCADvkLvI-kt3D-7bMA51LuDuPZRUV6t_p17h-fYMVz2aqIWRHjXxHIIP6sR1qIJIFnBxKlg%3D%3D&attredirects=0" width="450" height="230" border="0">
+* Step 2> unzip Title.zip
+* Step 3> cd Title
+* Step 4> ./bin/spark-notebook    
   Some times you need before to run chmod +x ./bin/spark-notebook
 
-* Step 4> Open the web browser and launch this address : http://localhost:9001
+* Step 5> Open the web browser and launch this address : http://localhost:9001
   or
   http://localhost:9000
   
