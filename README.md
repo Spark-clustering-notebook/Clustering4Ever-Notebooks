@@ -39,6 +39,23 @@ To learn about Scala you can download  JustEnoughScala.snb  (provided by Kensu.i
    "customDeps": [
     "com.github.haifengl:smile-scala_2.11:1.4.0"
   ],
+  
+  
+## Support
+
+### Scala Courses
+    * http://www.scala-lang.org/docu/files/ScalaByExample-fr_FR.pdf
+    * http://ampcamp.berkeley.edu/big-data-mini-course/introduction-to-the-scala-shell.html
+
+### Some Links
+
+   *  https://github.com/Xyclade/MachineLearning
+   *  https://github.com/lebbah/ClusteringIndices
+   *  https://github.com/Spark-clustering-notebook
+   *  https://hub.docker.com/r/spartakus/coliseum/
+   *  https://blog.kensu.io/
+   *  https://www.rosettahub.com
+   *  http://sciabarra.com/blog/
 
 ## Citation
 If you publish material based on informations obtained from this repository, then, in your acknowledgements, please note the assistance you received by using this community work. This will help others to obtain the same informations and **replicate your experiments**, because having results is cool but being able to compare to others is better.
