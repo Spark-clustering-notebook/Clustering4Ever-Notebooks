@@ -41,6 +41,8 @@ To learn about Scala you can download  JustEnoughScala.snb  (provided by Kensu.i
   ],
   
   
+  You have to restart the kernel. You must be connected to the internet 
+  
 ## Support
 
 ### Scala Courses
