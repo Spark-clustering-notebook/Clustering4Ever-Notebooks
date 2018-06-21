@@ -27,6 +27,8 @@ Before starting the virtual machine to make sure to increase the memory and the 
 <img src="https://sites.google.com/site/lebbah/aims-program/openspark.png" width="400" height="218" border="0">
 Some examples are avalaible via this link: https://github.com/Spark-clustering-notebook/Clustering4Ever-Notebooks/tree/master/SparkNotebooks 
 
+To learn about Scala you can download your JustEnoughScala.snb  (provided by Kensu.io)
+
 ### Additional informations 
 * To change port number if it is necessary
 (/bin/spark-notebook -Dhttp.port=8888)
