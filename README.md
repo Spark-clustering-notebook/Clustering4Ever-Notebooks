@@ -11,18 +11,23 @@ Before starting the virtual machine to make sure to increase the memory and the 
 * Install Java  -> sudo apt-get install default-jre
 
 ### Download the latest version on : http://spark-notebook.io/
-choose master version 
-- Step 1> unzip Title.zip
-* Step 2> cd Title
-* Step 3> ./bin/spark-notebook    
+* Step 1>  You must enter your email, so a download link will be sent to you (master version)
+<img src="https://82568e45-a-62cb3a1a-s-sites.googlegroups.com/site/lebbah/datatp/sparkSNB.png?attachauth=ANoY7crXLXLAyuINafKX7XT-dD8jwW5bceePcY2jaw1X_3w0meudInyt0oXTj98JkkjvXOyedhO758g5h2jikxU9Vml6UQQPcv5SfW_wANpgKTxO8tfysPGgkk-3sbBuDbHgP87QXtm6l6eafaNglTrCVinCADvkLvI-kt3D-7bMA51LuDuPZRUV6t_p17h-fYMVz2aqIWRHjXxHIIP6sR1qIJIFnBxKlg%3D%3D&attredirects=0" width="450" height="230" border="0">
+
+* Step 2> unzip Title.zip
+* Step 3> cd Title
+* Step 4> ./bin/spark-notebook    
   Some times you need before to run chmod +x ./bin/spark-notebook
 
-* Step 4> Open the web browser and launch this address : http://localhost:9001
+* Step 5> Open the web browser and launch this address : http://localhost:9001
   or
   http://localhost:9000
   
-* Step 6> import snb file using your browser 
+* Step 6> import "snb" or "snb.ipynb" file using your browser 
 <img src="https://sites.google.com/site/lebbah/aims-program/openspark.png" width="400" height="218" border="0">
+Some examples are avalaible via this link: https://github.com/Spark-clustering-notebook/Clustering4Ever-Notebooks/tree/master/SparkNotebooks 
+
+To learn about Scala you can download  JustEnoughScala.snb  (provided by Kensu.io)
 
 ### Additional informations 
 * To change port number if it is necessary
@@ -34,6 +39,25 @@ choose master version
    "customDeps": [
     "com.github.haifengl:smile-scala_2.11:1.4.0"
   ],
+  
+  
+  You have to restart the kernel. You must be connected to the internet 
+  
+## Support
+
+### Scala Courses
+   * http://www.scala-lang.org/docu/files/ScalaByExample-fr_FR.pdf
+   * http://ampcamp.berkeley.edu/big-data-mini-course/introduction-to-the-scala-shell.html
+
+### Some Links
+
+   *  http://sciabarra.com/blog/
+   *  https://github.com/Xyclade/MachineLearning
+   *  https://github.com/Spark-clustering-notebook
+   *  https://hub.docker.com/r/spartakus/coliseum/
+   *  https://blog.kensu.io/
+   *  https://www.rosettahub.com
+ 
 
 ## Citation
 If you publish material based on informations obtained from this repository, then, in your acknowledgements, please note the assistance you received by using this community work. This will help others to obtain the same informations and **replicate your experiments**, because having results is cool but being able to compare to others is better.
