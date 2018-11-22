@@ -57,6 +57,7 @@ To learn about Scala you can download  JustEnoughScala.snb  (provided by Kensu.i
    *  https://hub.docker.com/r/spartakus/coliseum/
    *  https://blog.kensu.io/
    *  https://www.rosettahub.com
+   *  http://captivedata.fr/
  
 
 ## Citation
