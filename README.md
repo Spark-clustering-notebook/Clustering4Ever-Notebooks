@@ -6,7 +6,7 @@ Here are gathred [SparkNotebook](https://github.com/spark-notebook/spark-noteboo
 Interactive and Reactive Data Science using Scala and Spark provided by [kensu.io](https://www.kensu.io/)
 
 ### Optional 
-* Install  [virtual box](https://www.virtualbox.org/) with Ubuntu or Debian.
+* If it is necessary, install  [virtual box](https://www.virtualbox.org/) with Ubuntu or Debian.
 Before starting the virtual machine to make sure to increase the memory and the number of processors
 * Install Java  -> sudo apt-get install default-jre
 
@@ -27,7 +27,7 @@ Before starting the virtual machine to make sure to increase the memory and the 
 <img src="https://sites.google.com/site/lebbah/aims-program/openspark.png" width="400" height="218" border="0">
 Some examples are avalaible via this link: https://github.com/Spark-clustering-notebook/Clustering4Ever-Notebooks/tree/master/SparkNotebooks 
 
-To learn about Scala you can download  JustEnoughScala.snb  (provided by Kensu.io)
+To learn about Scala you can download  [JustEnoughScala.ipynb](https://github.com/Spark-clustering-notebook/Clustering4Ever-Notebooks/blob/master/SparkNotebooks/Just%20Enough%20Scala.snb.ipynb)  (provided by Kensu.io)
 
 ### Additional informations 
 * To change port number if it is necessary
@@ -57,6 +57,7 @@ To learn about Scala you can download  JustEnoughScala.snb  (provided by Kensu.i
    *  https://hub.docker.com/r/spartakus/coliseum/
    *  https://blog.kensu.io/
    *  https://www.rosettahub.com
+   *  http://captivedata.fr/
  
 
 ## Citation
